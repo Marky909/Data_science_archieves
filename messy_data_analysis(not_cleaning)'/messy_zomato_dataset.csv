@@ -1,0 +1,151 @@
+name,rate,votes,online_order,book_table,approx_cost(for two people),listed_in(type)
+Onesta,3.4/5,-5.0,YES,No,"1,200",Other
+KFC,,708.0,YES,YES,,Other
+Dominos,,-5.0,,No,,buffet
+San Churro,,92.0,No,Yes,,dining
+Onesta,4.6/5,-5.0,no,,"1,200",Cafes
+Dominos,-,,No,no,-300,Buffet
+San Churro,-,-5.0,YES,no,-300,Buffet
+KFC,-,-5.0,Yes,no,-300,Buffet
+Dominos,2.0/5,983.0,no,No,"1,200",cafes
+Cafe Nova,,,No,no,,buffet
+San Churro,-,825.0,Yes,no,-300,Cafes
+Starbucks,-,,No,,"1,200",Other
+KFC,2.1/5,-5.0,no,,"1,200",cafes
+McDonald's,4.0/5,887.0,YES,YES,"1,200",Other
+Cafe Coffee Day,,-5.0,No,no,"1,200",Other
+Starbucks,3.6 /5,346.0,Yes,YES,1997,Other
+San Churro,,,no,YES,,dining
+San Churro,2.8/5,827.0,no,no,1514,Other
+Pizza Hut,1.5/5,862.0,No,Yes,,Dining
+Pizza Hut,,-5.0,,,,cafes
+Cafe Coffee Day,NEW,-5.0,no,no,1510,cafes
+KFC,1.0/5,,,YES,,Buffet
+McDonald's,3.3 /5,921.0,YES,No,,cafes
+Cafe Coffee Day,-,746.0,Yes,No,"1,200",other
+McDonald's,2.0/5,-5.0,No,YES,"1,200",Dining
+Pizza Hut,5.0 /5,,no,no,,Buffet
+KFC,4.1/5,590.0,no,no,1668,Dining
+Cafe Nova,,,No,Yes,1991,cafes
+KFC,NEW,700.0,Yes,YES,-300,Cafes
+Burger King,NEW,,No,No,,other
+Starbucks,3.2 /5,,No,YES,"1,200",Other
+Pizza Hut,3.5 /5,841.0,no,No,"1,200",other
+Burger King,,,,Yes,906,buffet
+San Churro,4.7 /5,146.0,YES,,-300,buffet
+Starbucks,-,-5.0,no,no,897,Dining
+Starbucks,1.7 /5,616.0,,,,other
+Dominos,,,No,YES,-300,Cafes
+Pizza Hut,NEW,,,no,-300,dining
+KFC,NEW,700.0,No,no,,Dining
+Onesta,-,,YES,no,1228,dining
+Dominos,1.9/5,676.0,no,no,,buffet
+Dominos,-,,No,no,-300,Other
+Dominos,2.3/5,,No,,,cafes
+Cafe Nova,-,,No,Yes,"1,200",buffet
+Pizza Hut,NEW,-5.0,Yes,no,"1,200",Other
+KFC,4.1/5,-5.0,,YES,-300,Cafes
+McDonald's,-,,Yes,Yes,"1,200",Other
+KFC,-,-5.0,,YES,-300,Other
+Dominos,4.2 /5,,,No,,Cafes
+Dominos,,-5.0,no,no,-300,other
+McDonald's,,,Yes,YES,1839,cafes
+McDonald's,NEW,-5.0,YES,No,,Other
+Onesta,4.3/5,-5.0,no,no,"1,200",Dining
+McDonald's,NEW,-5.0,No,,-300,buffet
+Starbucks,2.2/5,775.0,YES,No,,cafes
+Onesta,3.4 /5,,YES,,"1,200",Dining
+Cafe Coffee Day,2.0 /5,285.0,YES,no,-300,buffet
+Pizza Hut,-,415.0,YES,,-300,Dining
+San Churro,NEW,180.0,no,YES,1643,cafes
+Burger King,NEW,307.0,Yes,No,-300,dining
+KFC,,,no,,,dining
+Cafe Coffee Day,NEW,-5.0,no,Yes,,Other
+Burger King,,529.0,,,,buffet
+Starbucks,1.8 /5,968.0,YES,YES,580,cafes
+KFC,4.1/5,662.0,no,,986,buffet
+Cafe Nova,,,Yes,,,Dining
+Cafe Nova,3.9 /5,,Yes,YES,1708,Dining
+Starbucks,2.0 /5,,,YES,,dining
+Cafe Nova,,722.0,,,-300,Dining
+KFC,3.3/5,-5.0,,,,Buffet
+Cafe Coffee Day,,560.0,No,no,,other
+McDonald's,-,,no,Yes,,dining
+Burger King,3.8 /5,-5.0,Yes,YES,"1,200",dining
+Cafe Nova,3.2/5,193.0,no,,"1,200",cafes
+San Churro,3.6/5,-5.0,Yes,YES,,Cafes
+Cafe Nova,NEW,,Yes,,1357,Buffet
+McDonald's,NEW,674.0,,,816,Cafes
+San Churro,NEW,511.0,YES,no,1480,buffet
+Starbucks,,,YES,YES,,Buffet
+Burger King,3.1/5,,YES,,,Dining
+San Churro,,,,Yes,"1,200",cafes
+Burger King,,-5.0,No,,1619,buffet
+San Churro,NEW,-5.0,No,no,"1,200",dining
+Dominos,-,-5.0,no,No,,cafes
+Starbucks,2.1 /5,,No,Yes,-300,other
+San Churro,,418.0,No,,-300,Cafes
+Pizza Hut,1.1 /5,,No,YES,-300,cafes
+San Churro,-,,no,No,-300,Cafes
+Dominos,,-5.0,YES,,-300,other
+Starbucks,4.8/5,-5.0,no,no,-300,dining
+Cafe Nova,4.1 /5,852.0,No,Yes,"1,200",dining
+Starbucks,-,,YES,Yes,-300,Other
+Cafe Coffee Day,NEW,660.0,YES,,"1,200",Dining
+KFC,-,962.0,YES,Yes,1751,other
+Dominos,3.1/5,,No,No,839,other
+San Churro,4.6 /5,,YES,,1917,Other
+Onesta,3.9 /5,672.0,Yes,Yes,"1,200",cafes
+KFC,NEW,,,Yes,,cafes
+KFC,1.4/5,,YES,YES,1851,Other
+Starbucks,,207.0,no,,260,other
+Pizza Hut,,-5.0,YES,No,"1,200",other
+San Churro,NEW,,no,no,,dining
+Pizza Hut,2.5 /5,752.0,Yes,No,,Other
+San Churro,,-5.0,No,YES,-300,Other
+Starbucks,NEW,-5.0,,,-300,Dining
+San Churro,2.3 /5,234.0,No,Yes,,other
+Dominos,NEW,,No,YES,-300,Dining
+Starbucks,,-5.0,YES,YES,959,Buffet
+Onesta,-,-5.0,No,YES,,Other
+Dominos,,-5.0,No,Yes,"1,200",dining
+KFC,-,,,Yes,"1,200",Cafes
+Burger King,,980.0,No,no,,Cafes
+San Churro,,,no,No,"1,200",Buffet
+McDonald's,1.4/5,-5.0,YES,YES,1055,cafes
+Starbucks,-,,Yes,Yes,1418,Dining
+Onesta,1.9/5,,No,no,-300,Buffet
+Starbucks,NEW,-5.0,,,-300,Cafes
+Pizza Hut,3.7 /5,,YES,no,1369,Other
+Onesta,4.2/5,218.0,YES,No,1303,cafes
+McDonald's,NEW,-5.0,YES,Yes,1841,Cafes
+Cafe Coffee Day,3.4/5,511.0,no,no,436,buffet
+Pizza Hut,,-5.0,Yes,No,"1,200",Other
+Cafe Nova,NEW,-5.0,Yes,No,,Other
+Onesta,,,Yes,YES,-300,dining
+Dominos,NEW,-5.0,Yes,,-300,cafes
+Onesta,3.6/5,,Yes,no,,Buffet
+Pizza Hut,3.0/5,-5.0,no,Yes,"1,200",dining
+Pizza Hut,3.0 /5,,YES,YES,,other
+Starbucks,1.8 /5,,No,,,other
+Burger King,4.8 /5,-5.0,No,YES,"1,200",Dining
+Burger King,-,-5.0,,no,1484,Buffet
+Cafe Coffee Day,,417.0,YES,YES,255,Dining
+Pizza Hut,NEW,-5.0,No,,795,Cafes
+McDonald's,3.6/5,114.0,No,No,"1,200",buffet
+Cafe Coffee Day,3.9 /5,,No,Yes,-300,buffet
+Onesta,-,,YES,no,"1,200",Cafes
+San Churro,,,,,,Buffet
+Onesta,-,883.0,No,,-300,buffet
+Pizza Hut,4.2 /5,,no,Yes,100,buffet
+Pizza Hut,NEW,536.0,,Yes,"1,200",buffet
+Dominos,4.1 /5,-5.0,No,no,,cafes
+San Churro,2.1/5,,Yes,YES,"1,200",Dining
+Onesta,4.7 /5,,No,No,"1,200",dining
+Burger King,NEW,-5.0,no,no,"1,200",Buffet
+McDonald's,2.9 /5,-5.0,YES,,229,buffet
+Cafe Coffee Day,NEW,,Yes,,"1,200",Buffet
+Cafe Coffee Day,,-5.0,No,,,Dining
+KFC,2.8/5,556.0,,YES,,dining
+Burger King,NEW,,Yes,Yes,,Buffet
+Cafe Coffee Day,3.9/5,-5.0,No,no,-300,Other
